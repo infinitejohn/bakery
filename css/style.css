@@ -436,6 +436,6 @@ h6,
                       }
 
                       body {
-                        background-color: #545454;
-                        background-image: url(img/bgg.jpg);
+                        
+                        background-image: url("img/bgg.jpg");
                       }
