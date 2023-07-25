@@ -435,7 +435,8 @@ h6,
                       }
                       }
 
-                      body {
-                        
-                        background-image: url(img/bgg.jpg);
-                      }
+    body {
+         background-image: url(img/bgg.jpg);
+	 	  background-size: auto;
+          background-attachment: fixed;
+ }
