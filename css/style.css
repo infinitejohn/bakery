@@ -434,3 +434,7 @@ h6,
                     width: 100%;
                       }
                       }
+
+                      body {
+                        background-color: #545454;
+                      }
